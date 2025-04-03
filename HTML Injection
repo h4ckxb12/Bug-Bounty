@@ -2,6 +2,6 @@
 <svg width="100" height="100"><circle cx="50" cy="50" r="40" stroke="green" stroke-width="4" fill="yellow" /></svg>
 
 
------> Button redirect code:
+-----> Button redirect code for json:
 "html": "<!DOCTYPE html>\n<html lang=\"en\">\n<head>\n    <meta charset=\"UTF-8\">\n    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">\n    <title>Redirect Button</title>\n    <style>\n        body {\n            display: flex;\n            justify-content: center;\n            align-items: center;\n            height: 100vh;\n            background-color: #f4f4f4;\n        }\n        .redirect-button {\n            background-color: #007bff;\n            color: white;\n            border: none;\n            padding: 15px 30px;\n            font-size: 16px;\n            cursor: pointer;\n            border-radius: 5px;\n            transition: background-color 0.3s ease;\n        }\n        .redirect-button:hover {\n            background-color: #0056b3;\n        }\n    </style>\n</head>\n<body>\n    <button class=\"redirect-button\" onclick=\"window.location.href='https://example.com'\">Go to Example</button>\n</body>\n</html>"
 
