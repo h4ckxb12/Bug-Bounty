@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="200" height="200" viewBox="0 0 200 200" xmlns="http://www.w3.org/2000/svg">
+    <script><![CDATA[
+        function redirect() {
+            window.location.href = "https://example.com";
+        }
+    ]]></script>
+    <rect width="200" height="200" fill="#f0f0f0" />
+    <text x="50%" y="50%" font-size="16" text-anchor="middle" fill="red" dy=".3em" onclick="redirect()">
+        ❌ Image Generation Error
+    </text>
+</svg>
